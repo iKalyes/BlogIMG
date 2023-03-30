@@ -3,4 +3,4 @@
 git add .
 git commit -m "更新图片"
 # 推送至github仓库
-git push
+git push "https://github.com/iKalyes/BlogIMG.git"
