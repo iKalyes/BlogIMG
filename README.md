@@ -1,6 +1,6 @@
 # BlogIMG
 
-#本体图库推送Github
+#本地图库推送Github
 
 git add .
 
