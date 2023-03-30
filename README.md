@@ -1,6 +1,5 @@
 # BlogIMG
-# 将更改提交
+#本体图库推送Github
 git add .
-git commit -m "更新图片"
-# 推送至github仓库
-git push "https://github.com/iKalyes/BlogIMG.git"
+git commit -m "Update"
+git push "https://github.com/iKalyes/BlogIMG.git" # 推送至github仓库
